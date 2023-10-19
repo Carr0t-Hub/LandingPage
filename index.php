@@ -26,7 +26,16 @@
       <div class="container mt-2">
         <div class="row">
           <div class="col-md-3">
-            <a class="alert button-color d-flex align-items-center" role="alert" href="#">
+            <a class="alert button-color d-flex align-items-center" role="alert" href="https://portal.bar.gov.ph/BARPortal">
+              <img class="img-fluid flex-shrink-0 ms-3" src="img/logo.png" alt="" height="30%" width="30%">
+              <div class="flex-grow-1">
+                <h6 class="mb-0">Employees Portal</h6>
+                <small>Description</small>
+              </div>
+            </a>
+          </div>
+          <div class="col-md-3">
+            <a class="alert button-color d-flex align-items-center" role="alert" href="https://portal.bar.gov.ph/BARBookShop">
               <img class="img-fluid flex-shrink-0 ms-3" src="img/logo.png" alt="" height="30%" width="30%">
               <div class="flex-grow-1">
                 <h6 class="mb-0">Online Bookshop</h6>
@@ -35,7 +44,7 @@
             </a>
           </div>
           <div class="col-md-3">
-            <a class="alert button-color d-flex align-items-center" role="alert" href="#">
+            <a class="alert button-color d-flex align-items-center" role="alert" href="https://portal.bar.gov.ph/BAROnlineEvaluation">
               <img class="img-fluid flex-shrink-0 ms-3" src="img/logo.png" alt="" height="30%" width="30%">
               <div class="flex-grow-1">
                 <h6 class="mb-0">Online Evaluation</h6>
@@ -44,7 +53,7 @@
             </a>
           </div>
           <div class="col-md-3">
-            <a class="alert button-color d-flex align-items-center" role="alert" href="#">
+            <a class="alert button-color d-flex align-items-center" role="alert" href="https://portal.bar.gov.ph/BAROnlineExam">
               <img class="img-fluid flex-shrink-0 ms-3" src="img/logo.png" alt="" height="30%" width="30%">
               <div class="flex-grow-1">
                 <h6 class="mb-0">Online Exam</h6>
@@ -52,19 +61,11 @@
               </div>
             </a>
           </div>
-          <div class="col-md-3">
-            <a class="alert button-color d-flex align-items-center" role="alert" href="#">
-              <img class="img-fluid flex-shrink-0 ms-3" src="img/logo.png" alt="" height="30%" width="30%">
-              <div class="flex-grow-1">
-                <h6 class="mb-0">Employees Portal</h6>
-                <small>Description</small>
-              </div>
-            </a>
-          </div>
+          
         </div>
         <div class="row mt-1">
           <div class="col-md-3">
-            <a class="alert button-color d-flex align-items-center" role="alert" href="#">
+            <a class="alert button-color d-flex align-items-center" role="alert" href="https://portal.bar.gov.ph/DormReservation">
               <img class="img-fluid flex-shrink-0 ms-3" src="img/logo.png" alt="" height="30%" width="30%">
               <div class="flex-grow-1">
                 <h6 class="mb-0">Dorm Reservation</h6>
@@ -73,7 +74,7 @@
             </a>
           </div>
           <div class="col-md-3">
-            <a class="alert button-color d-flex align-items-center" role="alert" href="#">
+            <a class="alert button-color d-flex align-items-center" role="alert" href="https://portal.bar.gov.ph/E-Library">
               <img class="img-fluid flex-shrink-0 ms-3" src="img/logo.png" alt="" height="30%" width="30%">
               <div class="flex-grow-1">
                 <h6 class="mb-0">E-Library</h6>
@@ -82,7 +83,7 @@
             </a>
           </div>
           <div class="col-md-3">
-            <a class="alert button-color d-flex align-items-center" role="alert" href="#">
+            <a class="alert button-color d-flex align-items-center" role="alert" href="https://portal.bar.gov.ph/E-Newsletter">
               <img class="img-fluid flex-shrink-0 ms-3" src="img/logo.png" alt="" height="30%" width="30%">
               <div class="flex-grow-1">
                 <h6 class="mb-0">E-Newsletter</h6>
@@ -91,18 +92,7 @@
             </a>
           </div>
           <div class="col-md-3">
-            <a class="alert button-color d-flex align-items-center" role="alert" href="#">
-              <img class="img-fluid flex-shrink-0 ms-3" src="img/logo.png" alt="" height="30%" width="30%">
-              <div class="flex-grow-1">
-                <h6 class="mb-0">NAREA</h6>
-                <small>Description</small>
-              </div>
-            </a>
-          </div>
-        </div>
-        <div class="row mt-1">
-          <div class="col-md-3">
-            <a class="alert button-color d-flex align-items-center" role="alert" href="#">
+            <a class="alert button-color d-flex align-items-center" role="alert" href="https://portal.bar.gov.ph/Online_Maya">
               <img class="img-fluid flex-shrink-0 ms-3" src="img/logo.png" alt="" height="30%" width="30%">
               <div class="flex-grow-1">
                 <h6 class="mb-0">Online Maya</h6>
@@ -110,17 +100,10 @@
               </div>
             </a>
           </div>
-          <div class="col-md-3">
-            <a class="alert button-color d-flex align-items-center" role="alert" href="#">
-              <img class="img-fluid flex-shrink-0 ms-3" src="img/logo.png" alt="" height="30%" width="30%">
-              <div class="flex-grow-1">
-                <h6 class="mb-0">Online Registration</h6>
-                <small>Description</small>
-              </div>
-            </a>
-          </div>
-          <div class="col-md-3">
-            <a class="alert button-color d-flex align-items-center" role="alert" href="#">
+        </div>
+        <div class="row mt-1">
+          <div class="col-md-4">
+            <a class="alert button-color d-flex align-items-center" role="alert" href="https://portal.bar.gov.ph/SeminarRegistration">
               <img class="img-fluid flex-shrink-0 ms-3" src="img/logo.png" alt="" height="30%" width="30%">
               <div class="flex-grow-1">
                 <h6 class="mb-0">Seminar Registration</h6>
@@ -128,8 +111,18 @@
               </div>
             </a>
           </div>
-          <div class="col-md-3">
-            <a class="alert button-color d-flex align-items-center" role="alert" href="#">
+          <div class="col-md-4">
+            <a class="alert button-color d-flex align-items-center" role="alert" href="https://portal.bar.gov.ph/OnlineRegistration">
+              <img class="img-fluid flex-shrink-0 ms-3" src="img/logo.png" alt="" height="30%" width="30%">
+              <div class="flex-grow-1">
+                <h6 class="mb-0">Online Registration</h6>
+                <small>Description</small>
+              </div>
+            </a>
+          </div>
+          
+          <div class="col-md-4">
+            <a class="alert button-color d-flex align-items-center" role="alert" href="https://portal.bar.gov.ph/TechFlix">
               <img class="img-fluid flex-shrink-0 ms-3" src="img/logo.png" alt="" height="30%" width="30%">
               <div class="flex-grow-1">
                 <h6 class="mb-0">TechFlix</h6>
